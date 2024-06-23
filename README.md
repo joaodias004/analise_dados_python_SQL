@@ -1,5 +1,5 @@
 # analise_dados_python_SQL
-PORTUGUESE  
+# PORTUGUESE:   
 Visão Geral do Projeto
 
 Este projeto envolve a análise de um conjunto de dados de pedidos baixados da API do Kaggle. O conjunto de dados está armazenado em um arquivo CSV chamado orders.csv, que está compactado em um arquivo zip.
@@ -39,7 +39,7 @@ Execute o script em Python para preparar os dados e carregá-los no banco de dad
 Execute as consultas SQL para realizar as análises desejadas.
 Nota: Pode ser necessário modificar a string de conexão com o banco de dados no arquivo conection.py para corresponder à configuração específica do seu banco de dados.
 
-ENGLISH  
+# ENGLISH:  
 Project Overview
 
 This project involves analyzing a dataset of orders downloaded from the keggal API. The dataset is stored in a CSV file named orders.csv, which is compressed in a zip file.
